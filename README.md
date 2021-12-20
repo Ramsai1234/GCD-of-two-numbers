@@ -35,8 +35,8 @@ def gcd():
     print('GCD of two numbers is:',hcf)
 ```
 
-## Output:
-![gcd of two number](GCD.png)
+## Output:GCD
+![gcd of two number](./images/gcd.png))
 
 
 ## Result:
